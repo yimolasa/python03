@@ -20,7 +20,7 @@ print(browser.title)
 browser.save_screenshot("baidu.png")
 browser.find_element_by_id("kw").send_keys("fff")
 browser.find_element_by_id("su").click()
-browser.
+
 # dcap = dict(DesiredCapabilities.PHANTOMJS)
 #             # 不载入图片，爬页面速度会快很多
 # dcap["phantomjs.page.settings.loadImages"] = False

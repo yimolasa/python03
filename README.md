@@ -1,5 +1,15 @@
-# python03
-Selenium & phantomjs,chrome
-Apply proxy
+# wordcloudtest
+* sample: 1.get comments from weibo. 2.make word cloud
+* wctest: word cloud based on tickets
 
-wctest.py --> wordcloud
+# crawler
+* 01,02 get download link
+* 03 douban
+* 04 selenium test
+* 05 crawler with proxy
+
+# source
+either put drivers in same folder or set path
+```python
+driver = webdriver.Chrome(executable_path=r"C:\Chrome\chromedriver.exe")    
+```
