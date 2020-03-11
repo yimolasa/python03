@@ -7,6 +7,7 @@
 * 03 douban
 * 04 selenium test
 * 05 crawler with proxy
+* 06 taobao WOW classic
 
 # source
 either put drivers in same folder or set path
