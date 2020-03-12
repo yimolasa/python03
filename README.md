@@ -9,6 +9,10 @@
 * 05 crawler with proxy
 * 06 taobao WOW classic
 
+# folderlist
+read paths from txt files (UTF-8), catch and deduplicate folder path
+get top parent folder
+
 # source
 either put drivers in same folder or set path
 ```python

@@ -1,0 +1,7 @@
+﻿2020/03/09 22:50:20 ERROR 5 (0x00000005) Copying File \\fs003\d$\System Volume Information\SRM\e\cquota.xml
+2020/03/09 16:08:59 ERROR 5 (0x00000005) Copying File \\fs003\d$\Data\group\IT\2346.pptx
+2020/03/09 16:08:59 ERROR 5 (0x00000005) Copying File \\fs003\d$\Data\group\IT\2\3\46.pptx
+2020/03/09 22:50:20 ERROR 5 (0x00000005) Copying File \\fs003\d$\System Volume Information\SRM\quota.xml
+2020/03/09 22:50:20 ERROR 5 (0x00000005) Copying File \\fs003\d$\System Volume Information\SRM\c\cquota.xml
+2020/03/09 22:50:20 ERROR 5 (0x00000005) Copying File \\fs003\d$\System Volume Information\SRM\b\quota.xml
+2020/03/09 22:50:20 ERROR 5 (0x00000005) Copying File \\fs003\d$\System Volume Information\SRM\a\quota.xml
