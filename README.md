@@ -8,6 +8,10 @@
 * 04 selenium test
 * 05 crawler with proxy
 
+# folderlist
+read paths from txt files (UTF-8), catch and deduplicate folder path
+get top parent folder
+
 # source
 either put drivers in same folder or set path
 ```python

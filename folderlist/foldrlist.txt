@@ -1,0 +1,6 @@
+\\fs003\d$\Data\group\IT
+\\fs003\d$\System Volume Information\SRM
+\\fs003\d$\System Volume Information\SRM\a
+\\fs003\d$\System Volume Information\SRM\b
+\\fs003\d$\System Volume Information\SRM\c
+\\fs003\d$\System Volume Information\SRM\e
